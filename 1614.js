@@ -21,3 +21,20 @@ var maxDepth = function(s) {
     }
     return res
 };
+
+// Second Solution
+var maxDepth = function(s) {
+    let stack = []
+    let count = 0
+
+    for(ele of s) {
+        if(ele === "(") {
+            stack.push(ele)
+            count = count > stack.length ? count : stack.length
+        } else if(ele === ")") {
+            stack.pop()
+        }
+    }
+
+    return count
+};
