@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
-
 var maxProfit = function(prices) {
     let buy = prices[0]
     let sell = 0
