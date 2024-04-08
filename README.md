@@ -9,3 +9,4 @@ LeetCode Practice
 | 005    | [73](https://leetcode.com/problems/set-matrix-zeroes/description/)                          | Array    | Medium     | [73.js](https://github.com/wgetDJ/leetcode/blob/main/73.js)     |
 | 006    | [118](https://leetcode.com/problems/pascals-triangle/description/)                          | Array    | Hard       | [118.js](https://github.com/wgetDJ/leetcode/blob/main/118.js)   |
 | 007    | [31](https://leetcode.com/problems/next-permutation/)                                       | Array    | Medium     | [31.js](https://github.com/wgetDJ/leetcode/blob/main/31.js)     |
+| 008    | [75](https://leetcode.com/problems/sort-colors/)                                            | Array    | Medium     | [75.js](https://github.com/wgetDJ/leetcode/blob/main/75.js)     |
