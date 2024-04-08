@@ -11,4 +11,5 @@ LeetCode Practice
 | 007    | [31](https://leetcode.com/problems/next-permutation/)                                       | Array    | Medium     | [31.js](https://github.com/wgetDJ/leetcode/blob/main/31.js)     |
 | 008    | [75](https://leetcode.com/problems/sort-colors/)                                            | Array    | Medium     | [75.js](https://github.com/wgetDJ/leetcode/blob/main/75.js)     |
 | 009    | [48](https://leetcode.com/problems/rotate-image/)                                           | Array    | Medium     | [48.js](https://github.com/wgetDJ/leetcode/blob/main/48.js)     |
-| 010    | [56](https://leetcode.com/problems/merge-intervals/)                                        | Array    | Medium     | [48.js](https://github.com/wgetDJ/leetcode/blob/main/56.js)     |
+| 010    | [56](https://leetcode.com/problems/merge-intervals/)                                        | Array    | Medium     | [56.js](https://github.com/wgetDJ/leetcode/blob/main/56.js)     |
+| 011    | [88](https://leetcode.com/problems/merge-sorted-array/)                                     | Array    | Medium     | [88.js](https://github.com/wgetDJ/leetcode/blob/main/88.js)     |
