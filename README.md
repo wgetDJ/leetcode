@@ -10,3 +10,4 @@ LeetCode Practice
 | 006    | [118](https://leetcode.com/problems/pascals-triangle/description/)                          | Array    | Hard       | [118.js](https://github.com/wgetDJ/leetcode/blob/main/118.js)   |
 | 007    | [31](https://leetcode.com/problems/next-permutation/)                                       | Array    | Medium     | [31.js](https://github.com/wgetDJ/leetcode/blob/main/31.js)     |
 | 008    | [75](https://leetcode.com/problems/sort-colors/)                                            | Array    | Medium     | [75.js](https://github.com/wgetDJ/leetcode/blob/main/75.js)     |
+| 009    | [48](https://leetcode.com/problems/rotate-image/)                                           | Array    | Medium     | [48.js](https://github.com/wgetDJ/leetcode/blob/main/48.js)     |
